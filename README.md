@@ -46,13 +46,9 @@ In our case the exploidb database shows us a bunch of explit that we can use aga
 * Here run the exploit and get a meterpreter shell and we are NT AUTHORITY\SYSTEM! We have pwned our target and can do further enumeration to retrieve the flags.
 * From here you can do other enumerations to get the hashes of all the users and maybe find other misconfiguration in the system.
 
+![shell](https://user-images.githubusercontent.com/61636217/184238127-bba2fe98-ce95-421c-b936-76b0dd299de3.png)
+
+
 # Disclaimer
 
 This is for educational purposes only. Make sure you have written permissions to hack machines you don't own.
-
-
-
-
-
-
-![shell](https://user-images.githubusercontent.com/61636217/184238127-bba2fe98-ce95-421c-b936-76b0dd299de3.png)
