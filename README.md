@@ -29,3 +29,6 @@ Legacy is a beginner-level machine whichs demonstrates potential security risk o
 Now that we have found those potential vulnerabilities, lets now search for an exploit that can work against those type of vulnerabilities. You can search them on the https://www.exploit-db.com/
 
 In our case the exploidb database shows us a bunch of explit that we can use against our target. From the list given in the databse we see that we can attack with metasploit.
+
+
+# Phase 4
