@@ -32,3 +32,13 @@ In our case the exploidb database shows us a bunch of explit that we can use aga
 
 
 # Phase 4
+
+![search](https://user-images.githubusercontent.com/61636217/184237225-632223dd-6845-4d68-a3c0-a355b55399f1.png)
+
+
+
+![options](https://user-images.githubusercontent.com/61636217/184237269-b95cce94-138b-4d8c-9583-ede721282eed.png)
+
+
+
+![options](https://user-images.githubusercontent.com/61636217/184237283-0e6c4753-a8ec-41e0-a7b1-461b02a42ab4.png)
