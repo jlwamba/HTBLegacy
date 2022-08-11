@@ -41,6 +41,6 @@ In our case the exploidb database shows us a bunch of explit that we can use aga
 
 
 
-![shell](https://user-images.githubusercontent.com/61636217/184237713-0cc02ab1-2b71-4e76-a55b-84cbfa73698b.png)
 
 
+![shell](https://user-images.githubusercontent.com/61636217/184238127-bba2fe98-ce95-421c-b936-76b0dd299de3.png)
