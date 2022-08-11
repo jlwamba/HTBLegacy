@@ -33,11 +33,23 @@ In our case the exploidb database shows us a bunch of explit that we can use aga
 
 # Phase 4
 
+* Here we serach for the found vulnerability in metasploit.
+* Use the command ```use 0``` to select the exploit intended for our target machine.
+
 ![search](https://user-images.githubusercontent.com/61636217/184237225-632223dd-6845-4d68-a3c0-a355b55399f1.png)
 
-
+* Here we will have to set the target IP nad the hosts IP to complete our exploit.
+* We also check if the target is actually vulnerable to a RCE affecting Windows XP
 
 ![options](https://user-images.githubusercontent.com/61636217/184237651-8444026e-dfcc-4e34-812b-07b4f1e71da6.png)
+
+* Here run the exploit and get a meterpreter shell and we are NT AUTHORITY\SYSTEM! We have pwned our target and can do further enumeration to retrieve the flags.
+* From here you can do other enumerations to get the hashes of all the users and maybe find other misconfiguration in the system.
+
+# Disclaimer
+
+This is for educational purposes only. Make sure you have written permissions to hack machines you don't own.
+
 
 
 
