@@ -37,7 +37,8 @@ In our case the exploidb database shows us a bunch of explit that we can use aga
 
 
 
-![options](https://user-images.githubusercontent.com/61636217/184237269-b95cce94-138b-4d8c-9583-ede721282eed.png)
+![options](https://user-images.githubusercontent.com/61636217/184237651-8444026e-dfcc-4e34-812b-07b4f1e71da6.png)
+
 
 
 
